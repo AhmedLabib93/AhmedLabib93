@@ -19,7 +19,7 @@ SKILLS
 
 <b>Backend:</b> Java Core / Java 17 / Java EE / Spring (MVC, Boot, Data, Security, Cloud) / Hibernate / JPA / JUnit / Mockito  /  AWS (EC2, Elastic Beanstalk, S3, RDS, Route S3) / Docker
 
-<b>Databases:<\b> SQL: MySQL, PostgreSQL / NoSQL : MongoDB 
+<b>Databases:</b> SQL: MySQL, PostgreSQL / NoSQL : MongoDB 
 
 <b>Frontend:</b> Angular CLI / TypeScript / JavaScript / HTML / CSS / Thymeleaf
 
