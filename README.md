@@ -21,7 +21,7 @@ SKILLS
 
 <b>Databases:</b> SQL: MySQL, PostgreSQL / NoSQL : MongoDB 
 
-<b>Frontend:</b> Angular CLI / TypeScript / JavaScript / HTML / CSS / Thymeleaf
+<b>Frontend:</b> Angular / TypeScript / JavaScript / HTML / CSS / Thymeleaf
 
 <a href="https://github.com/AhmedLabib93">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedLabib93&theme=light&count_private=true&layout=compact&hide=kotlin" alt="AhmedLabib93 most used languages" />
